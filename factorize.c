@@ -8,8 +8,8 @@
  */
 int factorize(char *buffer)
 {
-	uint64_t num;
-	uint64_t i;
+	u_int64_t num;
+	u_int64_t i;
 
 	num = atoi(buffer);
 
